@@ -1,5 +1,5 @@
 INSERT INTO Ligne_Commande (num_cmd,code_produit,quantite_commande)  VALUES
-(1,"A0002",10);
+(1,'A0002',10);
 
 --Insertion dans la colone Ligne_Commande
 /*
